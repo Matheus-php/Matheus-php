@@ -1,7 +1,6 @@
 # Dashboard de Vendas
 
-![Dashboard](<img width="1413" height="796" alt="DashBoard-Capa" src="https://github.com/user-attachments/assets/72c10a1b-a115-4b40-9352-de60a04ac613" />
-)
+<img width="1430" height="799" alt="DashBoard vendas" src="https://github.com/user-attachments/assets/d611fce3-57fd-4e93-a16d-f21a47e40fff" />
 
 ## Objetivo
 Analisar performance de vendas por região, produto e vendedor.
