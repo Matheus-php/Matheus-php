@@ -1,16 +1,18 @@
-## Hi there 👋
+# Matheus Ferreira Alves
 
-<!--
-**Matheus-php/Matheus-php** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados focado em Power BI, Excel, SQL e visualização de dados.
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Dashboard Comercial
+- RH Analytics
+- Finance Analytics
+- Supply Chain
+
+## Ferramentas
+- Power BI
+- SQL
+- Excel
+- DAX
+- Power Query
+- Python
