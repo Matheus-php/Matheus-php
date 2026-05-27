@@ -1,18 +1,23 @@
-# Matheus Ferreira Alves
+# Dashboard de Vendas
 
-Analista de Dados focado em Power BI, Excel, SQL e visualização de dados.
+![Dashboard](<img width="1413" height="796" alt="DashBoard-Capa" src="https://github.com/user-attachments/assets/72c10a1b-a115-4b40-9352-de60a04ac613" />
+)
 
-## Projetos
-
-- Dashboard Comercial
-- RH Analytics
-- Finance Analytics
-- Supply Chain
+## Objetivo
+Analisar performance de vendas por região, produto e vendedor.
 
 ## Ferramentas
 - Power BI
-- SQL
-- Excel
 - DAX
 - Power Query
-- Python
+
+## KPIs
+- Receita total
+- Ticket médio
+- Crescimento mensal
+- Meta vs realizado
+
+## Insights
+- Região Sul teve maior crescimento.
+- Produto X caiu 15% no trimestre.
+
